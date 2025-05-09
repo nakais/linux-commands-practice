@@ -4,7 +4,7 @@ This repository contains a PDF guide of essential Linux commands for beginners a
 
 ## 📄 PDF File
 
-- [Download Linux Commands Guide](./Linux Command Practice_(Nazrul).pdf)
+- - [Download Linux Command Guide](./linux_command_practice_nazrul.pdf)
 
 ## 📚 Contents
 
