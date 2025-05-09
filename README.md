@@ -2,9 +2,11 @@
 
 This repository contains a PDF guide of essential Linux commands for beginners and intermediate users.
 
-## 📄 PDF File
+## 📄 View PDF
 
-- - [Download Linux Command Guide](./linux_command_practice_nazrul.pdf)
+Click below to view the Linux command guide directly in your browser:
+
+[View Linux Command Practice (Nazrul)](./Linux%20Command%20Practice_%28Nazrul%29.pdf)
 
 ## 📚 Contents
 
